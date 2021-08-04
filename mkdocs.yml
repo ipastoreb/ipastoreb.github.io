@@ -1,4 +1,5 @@
 site_name: My Docs
+site_url: https://ipastorebgithubio.readthedocs.io/en/latest/
 
 nav: 
   - Inicio: "index.md"
