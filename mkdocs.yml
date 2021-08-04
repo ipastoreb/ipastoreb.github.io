@@ -4,5 +4,6 @@ site_url: https://ipastorebgithubio.readthedocs.io/en/latest/
 nav: 
   - Inicio: "index.md"
   - Acerca de : "about.md"
+    - Dentro de acerca de: "about1.md"
 
 theme: readthedocs
