@@ -1,5 +1,5 @@
 
-## II - WHAT IS PRAXIS
+## I - WHAT IS PRAXIS
 
 
 
@@ -35,6 +35,6 @@ This EMR lowers clinical errors simply because what you are doing is not really 
 
 [^1]: Praxis EMR is a fully certified EHR by the Office of the National Coordinator of Health Information Technology (ONC), a branch of HHS" https://www.praxisemr.com/meaningful_use_and_reporting.html 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Nzc5MTQxMSwtMTk5NjEyODMxMCw1ND
-AxMzQ3MzJdfQ==
+eyJoaXN0b3J5IjpbLTE5OTYxMjgzMTAsLTE5OTYxMjgzMTAsNT
+QwMTM0NzMyXX0=
 -->
