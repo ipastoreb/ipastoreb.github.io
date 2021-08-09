@@ -1,5 +1,5 @@
 
-## I - WHAT IS PRAXIS
+## II - WHAT IS PRAXIS
 
 
 
@@ -7,8 +7,6 @@
 Figure 1. *Praxis is far more than a simple charter.  It manages your clinic by learning from your past.  Here we see Clinical Practice Guidelines which turn into Prospective Queries to dramatically improve MIPS to close to 100% in attestations without much effort.*
 
 The paper-record paradigm is dead.  The way we were taught to chart was based on a time when all we had was just that: dead paper. Today, our computer presents to us a fascinating new way to document and think, a rational and simple alternative approach to practice medicine faster, easier and better. Wasting hours a day charting and playing data-entry clerk makes no sense at all. By so doing, we providers missed the obvious, which this alternative approach to charting and practicing medicine resolves. Practicing medicine is not about charting anyway, and much less about bureaucracy, if it ever was. Medicine is not about computers either, except in that they are supposed to help, and not hinder, our work.  The staggering amount of time wasted in computer tasks using traditional EHRs is simply a dismal destruction of healthcare resources and of patient and professional well-being. Praxis presents a practical alternative, a new method to chart instantly and practice medicine easier and better. Praxis helps your patients and your practice by working with your mind and not against it. Perhaps, it might even protect your sanity.
-
-HOLA RICARDO
 
 Yes, with Praxis you chart backwards, and this may initially seem strange.  However, you will quickly find that what appears to be charting backwards makes sense:  It's better medicine, easier medicine, and certainly, much faster medicine to do what you wrote than to write what you did.  However, because this counterintuitive approach to charting medicine flies against our ingrained training, it takes a bit to get used at first, but, then again, our ingrained training was formed at a time when there were no computers around, when all we had was just that, dead paper. How could have we been trained otherwise?  To make things worse, all the other EHR ported this dead-paper-record paradigm into their computers unchanged, simply adding electric typewriters, plenty of macros, templates and picklists for good measure.  In so doing they turned a bad thing into something horrible.  No wonder providers are going crazy with their computers!
 
@@ -37,6 +35,6 @@ This EMR lowers clinical errors simply because what you are doing is not really 
 
 [^1]: Praxis EMR is a fully certified EHR by the Office of the National Coordinator of Health Information Technology (ONC), a branch of HHS" https://www.praxisemr.com/meaningful_use_and_reporting.html 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTQ5NDQzNCwtMTk5NjEyODMxMCw1ND
+eyJoaXN0b3J5IjpbMTQ0Nzc5MTQxMSwtMTk5NjEyODMxMCw1ND
 AxMzQ3MzJdfQ==
 -->
